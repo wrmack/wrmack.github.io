@@ -46,7 +46,7 @@ navbar-text-col: "#404040"
 navbar-children-col: "#E67E33"
 page-col: "#F5F5F5"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#CCCCCC"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
@@ -70,11 +70,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "warwick.mcnaughton@gmail.com"
+  facebook: warwick.mcnaughton
+  github: wrmack
+  twitter: mcnaught12
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
