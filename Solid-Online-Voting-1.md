@@ -45,7 +45,7 @@ The essential property of this system is that Alice retains her original vote.  
 ## A bit more detail
 Alice is an authenticated voter (we will leave aside the matter of authentication).  Bob has been given responsibility for running the election.  Carol and Charlie are a couple of the candidates.  Judy is a judge.  Ted is an independent election auditor.
 
-Alice puts her vote onto her POD, digitally signs it with her private key and sends a notification to Bob as well as to Ted, who have read access rights to her vote and who have her public key. She uses a different device to access her POD to check her vote is saved correctly.
+Alice has a POD hosted by Inrupt. Alice puts her vote onto her POD, digitally signs it with her private key and sends a notification to Bob as well as to Ted, who have read access rights to her vote and who have her public key. She can use a different device to access her POD to check her vote is saved correctly and was not changed.
 
 Bob reads her vote.  At the same time an acl file is associated with the vote which prohibits the world, including Alice, from changing or deleting the vote until two weeks following the election.
 
