@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-subtitle: Interests and projects
+subtitle: My interests and projects
 use-site-title: true
 ---
 
