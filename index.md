@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 ## Online voting
-I have an interest in on-line voting through my involvement in local government elections in New Zealand. There are major concerns world-wide about the security of on-line voting.  I came across the Solid project and became fascinated with its concept of people retaining their personal data. If a voter, voting on-line, retains their vote, rather than parting with it, this might enhance the verifiability of voting. The vote can be counted again, for example. I am keen to explore whether there are any aspects of this concept which might assist the secure development of online voting.  I have started to record some thoughts [here](Solid-Online-Voting-1).
+I have an interest in on-line voting through my involvement in local government elections in New Zealand. There are major concerns world-wide about the security of on-line voting.  I came across the Solid project and became fascinated with its concept of people retaining their personal data. If a voter, voting on-line, retains their vote, rather than parting with it, this might enhance the verifiability of voting. The vote can be counted again, for example. I am keen to explore whether there are any aspects of this concept which might assist the development of verifiable online voting.  I have started to record some thoughts [here](Solid-Online-Voting-1).
 
 The first step is to get my head around Solid.
 
