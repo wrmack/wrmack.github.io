@@ -16,7 +16,7 @@ show-avatar: false
 ## Election authorities providing online voting
 * [NSW Electoral Commission](https://www.ivote.nsw.gov.au) *iVote*
 
-## Experts / academics in the field of elections / online voting
+## Experts / academics in the field of online voting
 * [Robert Krimmer](http://www.robert.krimmer.ee) ([Google Scholar](https://scholar.google.com/citations?hl=en&user=RiUC4u0AAAAJ&view_op=list_works&sortby=pubdate))
 * [Ben Adida](https://ben.adida.net)
 * [J Alex Halderman](https://jhalderm.com)
