@@ -3,6 +3,7 @@ layout: page
 title: Solid voting
 subtitle: Exploring the potential for using Solid for online voting
 use-site-title: true
+show-avatar: false
 ---
 
 ## Trust

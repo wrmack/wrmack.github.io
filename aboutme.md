@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Some personal info
+use-site-title: true
 ---
 
 My name is Warwick McNaughton. I live in Manurewa, Auckland, New Zealand. I am married to Joanna. We have five adult children and ten grand-children.
