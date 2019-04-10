@@ -14,8 +14,11 @@ show-avatar: false
 * [E-Vote-ID](https://www.e-vote-id.org) *The International Conference for Electronic Voting*
 
 ## Election authorities providing online voting
+*- electoral commissions, governments, cities*
 * [NSW Electoral Commission](https://www.ivote.nsw.gov.au) *iVote*
 * [Estonia](https://www.valimised.ee/en/internet-voting/internet-voting-estonia)
+* [Switzerland](https://www.ch.ch/en/demokratie/voting-online/)
+* [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 100 municipalities in Canada provide online voting*
 
 ## Experts / academics researching online voting
 * [Ben Adida](https://ben.adida.net)
