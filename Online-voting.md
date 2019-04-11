@@ -22,6 +22,7 @@ show-avatar: false
 
 ## Experts / academics researching online voting
 * [Ben Adida](https://ben.adida.net)
+* [Michael Alvarez](http://www.hss.caltech.edu/people/r-m-michael-alvarez)
 * [Josh Benaloh](https://www.microsoft.com/en-us/research/people/benaloh/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fbenaloh%2F#!publications)
 * [Aleksander Essex](https://whisperlab.org/category/papers/)
 * [Nicole Goodman](http://nicolejgoodman.com/publications/)
