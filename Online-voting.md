@@ -20,7 +20,7 @@ show-avatar: false
 * [Switzerland](https://www.ch.ch/en/demokratie/voting-online/)
 * [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 100 municipalities in Canada provide online voting*
 
-## Experts / academics researching online voting
+## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
 * [Michael Alvarez](http://www.hss.caltech.edu/people/r-m-michael-alvarez)
 * [Josh Benaloh](https://www.microsoft.com/en-us/research/people/benaloh/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fbenaloh%2F#!publications)
@@ -28,6 +28,7 @@ show-avatar: false
 * [Nicole Goodman](http://nicolejgoodman.com/publications/)
 * [J Alex Halderman](https://jhalderm.com)
 * [Robert Krimmer](http://www.robert.krimmer.ee) ([Google Scholar](https://scholar.google.com/citations?hl=en&user=RiUC4u0AAAAJ&view_op=list_works&sortby=pubdate))
+* [Ron Rivest](http://people.csail.mit.edu/rivest/pubs.html)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 
 
