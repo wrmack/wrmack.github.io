@@ -787,3 +787,11 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+/*  My additions */
+#breadcrumbs, #breadcrumbs a {
+  color: silver; 
+  padding-top: 30px; 
+  font-family: 'Open Sans'; 
+  font-size: 14px;
+}
