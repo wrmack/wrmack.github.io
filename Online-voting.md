@@ -28,6 +28,7 @@ show-avatar: false
 * [Nicole Goodman](http://nicolejgoodman.com/publications/)
 * [J Alex Halderman](https://jhalderm.com)
 * [Robert Krimmer](http://www.robert.krimmer.ee) ([Google Scholar](https://scholar.google.com/citations?hl=en&user=RiUC4u0AAAAJ&view_op=list_works&sortby=pubdate))
+* [Olivier Pereira](https://uclouvain.be/crypto/people/show/10)
 * [Ron Rivest](http://people.csail.mit.edu/rivest/pubs.html)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 
