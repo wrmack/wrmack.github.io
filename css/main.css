@@ -795,3 +795,14 @@ td.gutter {
   font-family: 'Open Sans','Helvetica Neue','Helvetica','Arial','sans serif'; 
   font-size: 14px;
 }
+
+#markdown-toc {
+  color: silver; 
+  padding-top: 30px; 
+  font-family: 'Open Sans','Helvetica Neue','Helvetica','Arial','sans serif'; 
+  font-size: 18px;
+}
+
+h4 {
+  color: burlywood;
+}
