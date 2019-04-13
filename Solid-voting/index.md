@@ -13,17 +13,15 @@ Voters must trust the election system.  Democracy will fall into disrepute if vo
 ## Verifiability
 End-to-end verifiability is considered to be an essential property of an election system.  It should be possible to verify that a vote was:
 * cast as intended
-* counted as cast.
+* counted as cast
 
-And to verify tht all valid votes were counted.
+and to verify that all valid votes were counted.
 
 Most current election systems do not meet this expectation. 
 
-In the past, candidates have appointed scrutineers to monitor the counting of paper votes.  This provided a degree of verifiability.
+In the past, candidates have appointed scrutineers to monitor the counting of paper votes.  This provided a degree of verifiability. If votes are recorded electronically, scrutineers can satisfy themselves that the counting operations are robust (such as checking optical scans manually).
 
-If votes are recorded electronically, scrutineers can satisfy themselves that the counting operations are robust (such as checking optical scans manually).
-
-However, scrutineers cannot provide the verifiability that a fully trusted election system should have. 
+However, scrutineers cannot provide the verifiability that a fully trustworthy election system should have. 
 
 Some systems provide:
 * some form of receipt of a vote being received
