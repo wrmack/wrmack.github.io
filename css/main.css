@@ -805,7 +805,16 @@ td.gutter {
 
 pre {
   font-size: 14px;
+  margin-top: 12px;
+  margin-bottom: 20px;
 }
+
+/*
+li {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+*/
 /*
 h4 {
   color: burlywood;

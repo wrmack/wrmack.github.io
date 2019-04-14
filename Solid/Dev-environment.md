@@ -36,12 +36,17 @@ I installed locally rather than globally so I had easy access to source files.  
 
 * create a directory for installing solid server
 * cd to the directory then install solid-server
-* `npm install solid-server`
+* Do:
+```
+npm install solid-server
+```
 
 Initialise solid-server: 
 
-- The server uri will use the domain name you set up when setting up the DNS server.
-- You probably want to answer Y to multi-user mode.
-
-* `/[path to node modules]/node_modules/solid-server/bin/solid init`
+- The server uri will use the domain name you set up when setting up the DNS server
+- You probably want to answer Y to multi-user mode
+- Do:
+```
+/[path to node modules]/node_modules/solid-server/bin/solid init
+```
 
