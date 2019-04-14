@@ -803,6 +803,9 @@ td.gutter {
   font-size: 18px;
 }
 
+pre {
+  font-size: 14px;
+}
 /*
 h4 {
   color: burlywood;

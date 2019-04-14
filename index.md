@@ -13,7 +13,7 @@ There are major concerns world-wide about the security of on-line voting.  I cam
 The first step is to get my head around Solid.
 
 ## Solid
-The programming language I am most proficient in is Swift on the iOS platform.  There is no-one else contributing code to the Solid platform for iOS devices, so maybe I can get my head around Solid and contribute to iOS implementations of Solid at the same time.  Experimental apps are on [Github.](https://github.com/wrmack?utf8=✓&tab=repositories&q=solid)
+The programming language I am most proficient in is Swift on the iOS platform.  There is no-one else contributing code to the Solid platform for iOS devices, so maybe I can [get my head around Solid](Solid/) and contribute to iOS implementations of Solid at the same time.  Experimental apps are on [Github.](https://github.com/wrmack?utf8=✓&tab=repositories&q=solid)
 
 ## Speaker tracker
 Rules for formal debates often include limits on speaking times and the number of times a member may speak.  The chair of a meeting, or secretatial support, needs to keep a run-sheet of those who wish to speak and those who have spoken as well as time the speeches. My **Speaker tracker** app is an iPad app which does this. The code is [here](https://github.com/wrmack/SpeakerTracker).  It is also available on the Apple app store.
