@@ -105,4 +105,4 @@ A voter must trust:
 
 ### Solid voting
 
-[Verifiability](Solid-verifiability/)
+Detailed [notes on verifiability using Solid](Solid-verifiability/)

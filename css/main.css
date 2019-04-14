@@ -809,14 +809,12 @@ pre {
   margin-bottom: 20px;
 }
 
-/*
-li {
+
+h5 {
+  color: rgba(116, 59, 21, 0.904);
+  font-size: 22px;
+  font-style: italic;
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-weight: 600;
   margin-top: 30px;
-  margin-bottom: 20px;
 }
-*/
-/*
-h4 {
-  color: burlywood;
-}
-*/
