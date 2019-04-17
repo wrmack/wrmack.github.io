@@ -18,7 +18,7 @@ show-avatar: false
 * [NSW Electoral Commission](https://www.ivote.nsw.gov.au) *iVote*
 * [Estonia](https://www.valimised.ee/en/internet-voting/internet-voting-estonia)
 * [Switzerland](https://www.ch.ch/en/demokratie/voting-online/)
-* [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *[Over 150 municipalities in Canada provide online voting](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting)*
+* [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 150 municipalities in Canada provide [online voting](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting)*
 
 ## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
