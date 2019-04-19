@@ -194,6 +194,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - /Solid-react
 
 # prose.io config
 prose:
