@@ -25,7 +25,7 @@ description: Homepage hosted on Github
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Solid & online voting: "https://wrmack.github.io/Solid-Online-Voting-1"
+    - Solid & online voting: "https://wrmack.github.io/Solid-Voting"
     - Speaker tracker: "https://github.com/wrmack/SpeakerTracker"
     - GitHub: "https://github.com/wrmack?tab=repositories"
 
