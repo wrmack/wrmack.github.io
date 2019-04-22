@@ -36,6 +36,7 @@ Because voters' votes are still in the voters' pods, they can be re-counted by a
 ## Other aspects of the trust model
 
 ### Voting app
+
 #### Can the voting app be trusted?
 
 The code is open source and can be scrutinised.  This is key to establishing trust in the app. 
