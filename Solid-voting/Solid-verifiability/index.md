@@ -6,7 +6,7 @@ use-site-title: true
 show-avatar: false
 ---
 
-## Trust scenarios
+## Breach of trust scenarios
 ### Pod provider not trustworthy
 
 ##### Solid pod provider or third party maliciously changes Alice's vote on her pod before it is counted
@@ -31,5 +31,14 @@ Alice can check her pod from a different device and correct it using the differe
 
 ##### Election manager has been hacked - the counting of votes has been manipulated by an attacker
 
-Because voters' votes are still on their pods, they can be re-counted by a different entity.
+Because voters' votes are still in the voters' pods, they can be re-counted by a different entity.
+
+## Other aspects of the trust model
+
+### Voting app
+#### Can the voting app be trusted?
+
+The code is open source and can be scrutinised.  Regardless of the trustworthiness of the code, what is stored in Alice's pod is her data - her vote.  She can check this at any time and from any device (if the pod is in the cloud and she is online).  She can 'see' her vote the same way the election manager will 'see' it when the election manager counts her vote.
+
+
 
