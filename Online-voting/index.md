@@ -36,6 +36,7 @@ show-avatar: false
 *- governmental / parliamentary inquiries, positions, standards*
 * [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680726c0b), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
 * [Canadian Government](https://www.canada.ca/en/democratic-institutions/services/reports/online-voting-path-forward-federal-elections.html) a paper "Online Voting: A Path Forward for Federal Elections" (2017) 
+* [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
 
 
 <!-- ## Academic papers
