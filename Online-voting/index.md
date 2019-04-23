@@ -6,7 +6,7 @@ use-site-title: true
 show-avatar: false
 ---
 ## Non-profit groups involved in online voting
-*- either promoting it, researching it or warning against it.*
+*- either promoting it, researching it or warning against it*
 
 * [Webroots Democracy](https://webrootsdemocracy.org/online-voting/)
 * [The Electronic Elections Project](https://www.electronicelections.ca)
@@ -32,6 +32,9 @@ show-avatar: false
 * [Ron Rivest](http://people.csail.mit.edu/rivest/pubs.html)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 
+## Governments and online voting
+*- governmental / parliamentary inquiries, positions, standards*
+* [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680726c0b), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE)
 
 
 <!-- ## Academic papers
