@@ -34,9 +34,17 @@ show-avatar: false
 
 ## Governments and online voting
 *- governmental / parliamentary inquiries, positions, standards*
-* [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680726c0b), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
+* [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectID=0900001680726f6f), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
 * [Canadian Government](https://www.canada.ca/en/democratic-institutions/services/reports/online-voting-path-forward-federal-elections.html) a paper "Online Voting: A Path Forward for Federal Elections" (2017) 
 * [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
+
+## Security advisories
+*- security advice with a focus on election security*
+* [Department of Homeland Security, US](https://www.dhs.gov/publication/election-security-resource-library)
+* [Center for Internet Security (CIS), US](https://www.cisecurity.org/ei-isac/)
+* [Belfer Center, Harvard Kennedy School, US](https://www.belfercenter.org/publication/state-and-local-election-cybersecurity-playbook)
+* [Compendium on Cyber Security of Election Technology, EU](https://www.govcert.cz/en/info/events/2625-compendium-on-cyber-security-of-election-technology/)
+* [National Cybersecurity Centre, UK](https://www.ncsc.gov.uk/guidance/local-elections-2019-guidance-for-local-authorities)
 
 
 <!-- ## Academic papers
