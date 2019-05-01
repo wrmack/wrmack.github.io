@@ -27,10 +27,12 @@ show-avatar: false
 * [Aleksander Essex](https://whisperlab.org/category/papers/)
 * [Nicole Goodman](http://nicolejgoodman.com/publications/)
 * [J Alex Halderman](https://jhalderm.com)
+* [Feng Hao](https://www.dcs.warwick.ac.uk/~fenghao/), [(book)](https://www.crcpress.com/Real-World-Electronic-Voting-Design-Analysis-and-Deployment/Hao-Ryan/p/book/9781498714693)
 * [Robert Krimmer](http://www.robert.krimmer.ee) ([Google Scholar](https://scholar.google.com/citations?hl=en&user=RiUC4u0AAAAJ&view_op=list_works&sortby=pubdate))
 * [Olivier Pereira](https://uclouvain.be/crypto/people/show/10)
 * [Ron Rivest](http://people.csail.mit.edu/rivest/pubs.html)
 * [Mark Ryan](http://www.cs.bham.ac.uk/~mdr/)
+* [Peter Ryan](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/peter_y_a_ryan)
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 
