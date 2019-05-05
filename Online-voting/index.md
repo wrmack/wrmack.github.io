@@ -20,6 +20,14 @@ show-avatar: false
 * [Switzerland](https://www.ch.ch/en/demokratie/voting-online/)
 * [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 150 municipalities in Canada provide [online voting](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting)*
 
+## Governments and online voting
+*- governmental / parliamentary inquiries, positions, standards*
+* [Canadian Government](https://www.canada.ca/en/democratic-institutions/services/reports/online-voting-path-forward-federal-elections.html) a paper "Online Voting: A Path Forward for Federal Elections" (2017) 
+* [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectID=0900001680726f6f), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
+* [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
+* [Scottish Government Consultation on Electoral Reform](https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/)
+* [Swiss Government](https://www.admin.ch/opc/en/classified-compilation/20132343/index.html)
+
 ## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
 * [Michael Alvarez](http://www.hss.caltech.edu/people/r-m-michael-alvarez)
@@ -35,14 +43,6 @@ show-avatar: false
 * [Peter Ryan](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/peter_y_a_ryan)
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
-
-## Governments and online voting
-*- governmental / parliamentary inquiries, positions, standards*
-* [Canadian Government](https://www.canada.ca/en/democratic-institutions/services/reports/online-voting-path-forward-federal-elections.html) a paper "Online Voting: A Path Forward for Federal Elections" (2017) 
-* [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectID=0900001680726f6f), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
-* [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
-* [Scottish Government Consultation on Electoral Reform](https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/)
-* [Swiss Government](https://www.admin.ch/opc/en/classified-compilation/20132343/index.html)
 
 ## Security advisories
 *- security advice with a focus on election security*
