@@ -10,8 +10,12 @@ show-avatar: false
 
 * [Webroots Democracy](https://webrootsdemocracy.org/online-voting/)
 * [The Electronic Elections Project](https://www.electronicelections.ca)
-* [Verified Voting](https://www.verifiedvoting.org/resources/internet-voting/)
 * [E-Vote-ID](https://www.e-vote-id.org) *The International Conference for Electronic Voting*
+
+*- other groups with comments / reports about online voting*
+* [Verified Voting](https://www.verifiedvoting.org/resources/internet-voting/)
+* US Vote Foundation: [report on end-to-end verifiable internet voting (E2E-VIV)](https://www.usvotefoundation.org/e2e-viv/summary)
+* National Academies of Sciences, Engineering, Medicine: [Securing the Vote](https://www.nap.edu/catalog/25120/securing-the-vote-protecting-american-democracy)
 
 ## Election authorities providing online voting
 *- electoral commissions, governments, cities*
