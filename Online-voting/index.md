@@ -48,6 +48,10 @@ show-avatar: false
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 
+## Companies researching election technology
+* [Free & Fair](https://freeandfair.us/)
+* [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/05/06/protecting-democratic-elections-through-secure-verifiable-voting/)
+
 ## Security advisories
 *- security advice with a focus on election security*
 * [Department of Homeland Security, US](https://www.dhs.gov/publication/election-security-resource-library)
