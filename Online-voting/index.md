@@ -60,5 +60,7 @@ show-avatar: false
 * [Compendium on Cyber Security of Election Technology, EU](https://www.govcert.cz/en/info/events/2625-compendium-on-cyber-security-of-election-technology/)
 * [National Cybersecurity Centre, UK](https://www.ncsc.gov.uk/guidance/local-elections-2019-guidance-for-local-authorities)
 * [European Union Agency for Network and Information Security (ENISA), EU](https://www.enisa.europa.eu/publications/enisa-position-papers-and-opinions/election-cybersecurity-challenges-and-opportunities)
+* Transatlantic Cyber Forum: [Securing Democracy in Cyberspace](https://www.stiftung-nv.de/sites/default/files/securing_democracy_in_cyberspace.pdf)
+
 
 
