@@ -62,6 +62,3 @@ show-avatar: false
 * [European Union Agency for Network and Information Security (ENISA), EU](https://www.enisa.europa.eu/publications/enisa-position-papers-and-opinions/election-cybersecurity-challenges-and-opportunities)
 
 
-<!-- ## Academic papers
-[Internet Voting in Canada: A Cyber Security Perspective](https://www.ourcommons.ca/Content/Committee/421/ERRE/Brief/BR8610535/br-external/EssexAleksander-e.pdf) *Aleksander Essex, Department of Electrical and Computer Engineering Western University, Canada* -->
-
