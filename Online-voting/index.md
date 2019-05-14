@@ -52,8 +52,8 @@ show-avatar: false
 * [Free & Fair](https://freeandfair.us/)
 * [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/05/06/protecting-democratic-elections-through-secure-verifiable-voting/)
 
-## Security advisories
-*- security advice with a focus on election security*
+## Security advice
+*- with a focus on election security*
 * [Department of Homeland Security, US](https://www.dhs.gov/publication/election-security-resource-library)
 * [Center for Internet Security (CIS), US](https://www.cisecurity.org/ei-isac/)
 * [Belfer Center, Harvard Kennedy School, US](https://www.belfercenter.org/publication/state-and-local-election-cybersecurity-playbook)
