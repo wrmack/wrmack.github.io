@@ -10,7 +10,7 @@ show-avatar: false
 
 * [Webroots Democracy](https://webrootsdemocracy.org/online-voting/)
 * [The Electronic Elections Project](https://www.electronicelections.ca)
-* [E-Vote-ID](https://www.e-vote-id.org) *The International Conference for Electronic Voting*
+
 
 *- other groups with comments / reports about online voting*
 * [Verified Voting](https://www.verifiedvoting.org/resources/internet-voting/)
@@ -47,6 +47,8 @@ show-avatar: false
 * [Peter Ryan](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/peter_y_a_ryan)
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
+* [E-Vote-ID](https://www.e-vote-id.org) *The International Conference for Electronic Voting*
+* [International E-voting PhD Colloquium](https://evoting-phd.secuso.org/)
 
 ## Companies researching election technology
 * [Free & Fair](https://freeandfair.us/)
