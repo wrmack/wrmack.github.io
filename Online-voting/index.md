@@ -47,8 +47,12 @@ show-avatar: false
 * [Peter Ryan](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/peter_y_a_ryan)
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
+
+## Academic institutions and conferences
+*- having online voting as a focus* 
 * [E-Vote-ID](https://www.e-vote-id.org) *The International Conference for Electronic Voting*
 * [International E-voting PhD Colloquium](https://evoting-phd.secuso.org/)
+* [Karlsruhe Institute of Technology](https://secuso.aifb.kit.edu/english/104.php)
 
 ## Companies researching election technology
 * [Free & Fair](https://freeandfair.us/)
