@@ -23,6 +23,7 @@ show-avatar: false
 * [Estonia](https://www.valimised.ee/en/internet-voting/internet-voting-estonia)
 * [Switzerland](https://www.ch.ch/en/demokratie/voting-online/)
 * [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 150 municipalities in Canada provide [online voting](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting)*
+* [IDEA database of countries using e-voting](https://www.idea.int/advanced-search?th=ICTs%20in%20Elections%20Database&region=&question=)
 
 ## Governments and online voting
 *- governmental / parliamentary inquiries, positions, standards*
