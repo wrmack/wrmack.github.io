@@ -69,6 +69,7 @@ show-avatar: false
 * [National Cybersecurity Centre, UK](https://www.ncsc.gov.uk/guidance/local-elections-2019-guidance-for-local-authorities)
 * [European Union Agency for Network and Information Security (ENISA), EU](https://www.enisa.europa.eu/publications/enisa-position-papers-and-opinions/election-cybersecurity-challenges-and-opportunities)
 * Transatlantic Cyber Forum: [Securing Democracy in Cyberspace](https://www.stiftung-nv.de/sites/default/files/securing_democracy_in_cyberspace.pdf)
+* [Center for Democracy and Technology](https://cdt.org/issue/security-surveillance/cybersecurity-2/)
 
 
 
