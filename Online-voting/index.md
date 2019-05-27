@@ -57,7 +57,7 @@ show-avatar: false
 * [Voting Technology Project](https://www.vote.caltech.edu/about)
 
 ## Companies researching election technology
-* [Free & Fair](https://freeandfair.us/)
+* [Free & Fair](https://freeandfair.us/) ([Archive of e-voting systems](https://github.com/FreeAndFair/evoting-systems))
 * [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/05/06/protecting-democratic-elections-through-secure-verifiable-voting/)
 
 ## Security advice
