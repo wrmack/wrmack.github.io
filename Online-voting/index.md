@@ -50,10 +50,11 @@ show-avatar: false
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 
 ## Academic institutions and conferences
-*- having online voting as a focus* 
+*- relevant to online voting* 
 * [E-Vote-ID](https://www.e-vote-id.org) *The International Conference for Electronic Voting*
 * [International E-voting PhD Colloquium](https://evoting-phd.secuso.org/)
 * [Karlsruhe Institute of Technology](https://secuso.aifb.kit.edu/english/104.php)
+* [Voting Technology Project](https://www.vote.caltech.edu/about)
 
 ## Companies researching election technology
 * [Free & Fair](https://freeandfair.us/)
