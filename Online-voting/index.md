@@ -48,6 +48,7 @@ show-avatar: false
 * [Mark Ryan](http://www.cs.bham.ac.uk/~mdr/)
 * [Peter Ryan](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/peter_y_a_ryan)
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
+* [Ben Smyth](https://scholar.google.com/citations?user=eGdZckcAAAAJ&hl=en)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 
 ## Academic institutions and conferences
