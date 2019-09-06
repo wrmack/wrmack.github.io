@@ -37,6 +37,7 @@ show-avatar: false
 * [Ben Adida](https://ben.adida.net)
 * [Michael Alvarez](http://www.hss.caltech.edu/people/r-m-michael-alvarez)
 * [Josh Benaloh](https://www.microsoft.com/en-us/research/people/benaloh/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fbenaloh%2F#!publications)
+* [Matt Blaze](https://www.law.georgetown.edu/faculty/matt-blaze/) [Articles](https://scholar.google.co.nz/scholar?as_q=&as_epq=&as_oq=elections+voting&as_eq=&as_occt=any&as_sauthors=%22m+blaze%22&as_publication=&as_ylo=&as_yhi=&hl=en&as_sdt=1%2C5&as_vis=1)
 * [Véronique Cortier](https://members.loria.fr/VCortier/)
 * [Aleksander Essex](https://whisperlab.org/category/papers/)
 * [Nicole Goodman](http://nicolejgoodman.com/publications/)
