@@ -51,6 +51,7 @@ show-avatar: false
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Ben Smyth](https://scholar.google.com/citations?user=eGdZckcAAAAJ&hl=en)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
+* [Marie-Laure Zollinger](https://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/marie_laure_zollinger)
 
 ## Academic institutions and conferences
 *- relevant to online voting* 
