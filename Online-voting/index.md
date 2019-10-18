@@ -28,7 +28,7 @@ show-avatar: false
 ## Governments and online voting
 *- governmental / parliamentary inquiries, positions, standards*
 * [Canadian Government](https://www.canada.ca/en/democratic-institutions/services/reports/online-voting-path-forward-federal-elections.html) "Online Voting: A Path Forward for Federal Elections" (2017) 
-* [Canadian Government](http://publications.gc.ca/collections/collection_2019/cstc-csec/D96-2-2019-eng.pdf) "2019 Update: Cyber Threats to Canada’s Democratic Process (2019)"
+* [Canadian Government](http://publications.gc.ca/collections/collection_2019/cstc-csec/D96-2-2019-eng.pdf) "2019 Update: Cyber Threats to Canada’s Democratic Process" (2019)
 * [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectID=0900001680726f6f), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
 * [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
 * [Scottish Government Consultation on Electoral Reform](https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/)
