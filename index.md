@@ -14,7 +14,7 @@ The [Solid project](https://solid.inrupt.com/about) was initiated by Sir Tim Ber
 
 It might be interesting to apply this concept to voting. If a voter, voting on-line, retains their vote, rather than parting with it, and simply sends a notification this might enhance the verifiability of voting. The vote can be counted again, for example.  It can be counted by more than one tallier.  The voter does not part with their vote and can check it anytime from any device.  Some [thoughts](Solid-voting/).
 
-I have started to contribute a little to the Solid project.  Some experimental apps, showing how the Solid libraries might be applied in iOS, are on [Github.](https://github.com/wrmack?utf8=✓&tab=repositories&q=solid)
+I have started to contribute a little to the Solid project.  Some experimental apps, showing how the Solid libraries might be applied in iOS: [working with tokens](https://github.com/wrmack/Get-tokens), [using the rdflib.js library](https://github.com/wrmack/RDF-iOS).
 
 
 ## Speaker tracker
