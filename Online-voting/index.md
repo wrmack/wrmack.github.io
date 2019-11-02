@@ -66,6 +66,9 @@ show-avatar: false
 * [Free & Fair](https://freeandfair.us/) ([Archive of e-voting systems](https://github.com/FreeAndFair/evoting-systems))
 * [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/09/24/electionguard-available-today-to-enable-secure-verifiable-voting/)
 
+## Cloud services for elections
+* [Amazon web services (AWS)](https://aws.amazon.com/stateandlocal/elections/)
+
 ## Security advice
 *- with a focus on election security*
 * [Department of Homeland Security, US](https://www.dhs.gov/publication/election-security-resource-library)
