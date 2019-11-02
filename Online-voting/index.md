@@ -68,6 +68,7 @@ show-avatar: false
 
 ## Cloud services for elections
 * [Amazon web services (AWS)](https://aws.amazon.com/stateandlocal/elections/)
+* [Catalyst (NZ)](https://www.catalyst.net.nz/client-work/electoral-commission), [Catalyst Cloud](https://catalystcloud.nz/customers/public-sector/)
 
 ## Security advice
 *- with a focus on election security*
