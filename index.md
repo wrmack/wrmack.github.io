@@ -10,7 +10,7 @@ use-site-title: true
 I have an interest in on-line voting through my involvement in local government elections in New Zealand. I have started to create a collection of resources [here](Online-voting/).
 
 ## Solid
-The Solid project was initiated by Sir Tim Berners-lee, the inventor of the web.  A key concept is that people keep all their personal data on a pod.  In a social media context this contrasts with the current model where users' personal data is stored centrally - the users of Facebook have their personal data, their likes, shares, comments kept on Facebook's servers.  Under the Solid model a user might 'like' someone else's post but the user's 'like' is stored on the user's own pod and the owner of the post is notified.    
+The Solid project was initiated by Sir Tim Berners-lee, the inventor of the web.  A key concept is that people keep all their personal data in a pod.  In a social media context this contrasts with the current model where users' personal data is stored centrally - the users of Facebook have their personal data - their likes, shares, comments - kept on Facebook's servers.  Under the Solid model a user might 'like' someone else's post but the user's 'like' is stored on the user's own pod and the owner of the post is notified.    
 
 It might be interesting to apply this concept to voting. If a voter, voting on-line, retains their vote, rather than parting with it, and simply sends a notification this might enhance the verifiability of voting. The vote can be counted again, for example.  It can be counted by more than one tallier.  The voter does not part with their vote and can check it anytime from any device.  Some [thoughts](Solid-voting/).
 
