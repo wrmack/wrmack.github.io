@@ -53,7 +53,7 @@ show-avatar: false
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Ben Smyth](https://scholar.google.com/citations?user=eGdZckcAAAAJ&hl=en)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
-* [Melanie Volkamer](https://secuso.aifb.kit.edu/Team_Volkamer.php) [Google Scholer](https://scholar.google.at/citations?hl=de&user=ve0UJIEAAAAJ&view_op=list_works&sortby=pubdate)
+* [Melanie Volkamer](https://secuso.aifb.kit.edu/Team_Volkamer.php) [(Google Scholar)](https://scholar.google.at/citations?hl=de&user=ve0UJIEAAAAJ&view_op=list_works&sortby=pubdate)
 * [Marie-Laure Zollinger](https://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/marie_laure_zollinger)
 
 ## Academic institutions and conferences
