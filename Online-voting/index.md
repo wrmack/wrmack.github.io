@@ -32,7 +32,7 @@ show-avatar: false
 * [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectID=0900001680726f6f), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
 * [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
 * [Scottish Government Consultation on Electoral Reform](https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/)
-* [Swiss Government](https://www.admin.ch/opc/en/classified-compilation/20132343/index.html)
+* [Swiss Government](https://www.admin.ch/opc/en/classified-compilation/20132343/index.html), [E-voting](https://www.bk.admin.ch/bk/en/home/politische-rechte/e-voting.html)
 
 ## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
