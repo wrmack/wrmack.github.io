@@ -53,6 +53,7 @@ show-avatar: false
 * [Peter Ryan](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/peter_y_a_ryan)
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
 * [Ben Smyth](https://scholar.google.com/citations?user=eGdZckcAAAAJ&hl=en)
+* [Philip Stark](https://www.stat.berkeley.edu/~stark/Vote/index.htm)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
 * [Melanie Volkamer](https://secuso.aifb.kit.edu/Team_Volkamer.php) ([Google Scholar](https://scholar.google.at/citations?hl=de&user=ve0UJIEAAAAJ&view_op=list_works&sortby=pubdate))
 * [Marie-Laure Zollinger](https://wwwen.uni.lu/research/fstc/computer_science_and_communications_research_unit/members/marie_laure_zollinger)
