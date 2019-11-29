@@ -25,7 +25,7 @@ show-avatar: false
 * [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 150 municipalities in Canada provide [online voting](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting)*
 * [IDEA database of countries using e-voting](https://www.idea.int/advanced-search?th=ICTs%20in%20Elections%20Database&region=&question=)
 * [France](https://www.diplomatie.gouv.fr/fr/services-aux-francais/elections/modalites-de-vote/article/vote-par-internet)
-* Pakistan - [Report of Electoral Commission](https://ecp.gov.pk/documents/ivotingreport.pdf)
+
 
 ## Governments and online voting
 *- governmental / parliamentary inquiries, positions, standards*
@@ -35,6 +35,7 @@ show-avatar: false
 * [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
 * [Scottish Government Consultation on Electoral Reform](https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/)
 * [Swiss Government](https://www.admin.ch/opc/en/classified-compilation/20132343/index.html), [E-voting page](https://www.bk.admin.ch/bk/en/home/politische-rechte/e-voting.html), [Technical](https://www.bk.admin.ch/dam/bk/en/dokumente/pore/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf.download.pdf/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf)
+* Pakistan - [Report of Electoral Commission](https://ecp.gov.pk/documents/ivotingreport.pdf)
 
 ## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
