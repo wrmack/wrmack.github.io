@@ -25,6 +25,7 @@ show-avatar: false
 * [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 150 municipalities in Canada provide [online voting](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting)*
 * [IDEA database of countries using e-voting](https://www.idea.int/advanced-search?th=ICTs%20in%20Elections%20Database&region=&question=)
 * [France](https://www.diplomatie.gouv.fr/fr/services-aux-francais/elections/modalites-de-vote/article/vote-par-internet)
+* Pakistan - [Report of Electoral Commission](https://ecp.gov.pk/documents/ivotingreport.pdf)
 
 ## Governments and online voting
 *- governmental / parliamentary inquiries, positions, standards*
