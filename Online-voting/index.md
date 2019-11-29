@@ -71,6 +71,7 @@ show-avatar: false
 ## Companies researching election technology
 * [Free & Fair](https://freeandfair.us/) ([Archive of e-voting systems](https://github.com/FreeAndFair/evoting-systems))
 * [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/09/24/electionguard-available-today-to-enable-secure-verifiable-voting/)
+* [Verificatum](https://www.verificatum.com)
 
 ## Cloud services for elections
 * [Amazon web services (AWS)](https://aws.amazon.com/stateandlocal/elections/)
