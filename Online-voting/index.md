@@ -36,6 +36,7 @@ show-avatar: false
 * [Scottish Government Consultation on Electoral Reform](https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/)
 * [Swiss Government](https://www.admin.ch/opc/en/classified-compilation/20132343/index.html), [E-voting page](https://www.bk.admin.ch/bk/en/home/politische-rechte/e-voting.html), [Technical](https://www.bk.admin.ch/dam/bk/en/dokumente/pore/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf.download.pdf/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf)
 * Pakistan - [Report of Electoral Commission](https://ecp.gov.pk/documents/ivotingreport.pdf), [Academic comment](https://arxiv.org/pdf/1907.07765.pdf)
+* USA - [NIST](https://csrc.nist.gov/Topics/Applications/voting)
 
 ## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
