@@ -41,6 +41,7 @@ show-avatar: false
 ## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
 * [Michael Alvarez](http://www.hss.caltech.edu/people/r-m-michael-alvarez)
+* [Jordi Barrat Esteve](http://www.cedat.cat/qui-som/directori/62/jordi-barrat-esteve) ([Google Scholar](https://scholar.google.at/citations?user=kEBVhw4hASoC&hl=ca))
 * [Josh Benaloh](https://www.microsoft.com/en-us/research/people/benaloh/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fbenaloh%2F#!publications)
 * [Matt Bernhard](https://mbernhard.com)
 * [Matt Blaze](https://www.law.georgetown.edu/faculty/matt-blaze/) ([Google Scholar](https://scholar.google.co.nz/scholar?as_q=&as_epq=&as_oq=elections+voting&as_eq=&as_occt=any&as_sauthors=%22m+blaze%22&as_publication=&as_ylo=&as_yhi=&hl=en&as_sdt=1%2C5&as_vis=1))
