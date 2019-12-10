@@ -5,7 +5,7 @@ subtitle: Some personal info
 use-site-title: true
 ---
 
-My name is Warwick McNaughton. I live in Manurewa, Auckland, New Zealand. I am married to Joanna. We have five adult children and ten grand-children.
+My name is Warwick McNaughton. I live in Manurewa, Auckland, New Zealand. I am married to Joanna. We have five adult children and eleven grand-children.
 
 ### Career
 My career has been in local government in New Zealand, starting with Manukau City Council in 1980 then Auckland Council in 2010 until now.  I commenced as a community advisor.  From 1989 to 2003 I provided services to elected community boards.  In 2003 I became Manager of Democracy Services, providing services and advice to all the council's political meetings and running elections.  Since the amalgamation of all the eight Auckland councils into the one Auckland Council in 2010 I have had a variety of positions, currently holding the position of Principal Advisor in Democracy Services.  The key focus of this role is providing governance advice. Auckland Council is the local government authority for a population of over 1.6 million.
