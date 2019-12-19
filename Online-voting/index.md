@@ -89,6 +89,6 @@ show-avatar: false
 * [European Union Agency for Network and Information Security (ENISA), EU](https://www.enisa.europa.eu/publications/enisa-position-papers-and-opinions/election-cybersecurity-challenges-and-opportunities)
 * Transatlantic Cyber Forum: [Securing Democracy in Cyberspace](https://www.stiftung-nv.de/sites/default/files/securing_democracy_in_cyberspace.pdf)
 * [Center for Democracy and Technology](https://cdt.org/campaign/election-security/)
-
+* [Brennan Center for Justice](https://www.brennancenter.org/our-work/policy-solutions/preparing-cyberattacks-and-technical-failures-guide-election-officials)
 
 
