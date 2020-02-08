@@ -71,6 +71,7 @@ show-avatar: false
 * [International E-voting PhD Colloquium](https://evoting-phd.secuso.org/)
 * [Karlsruhe Institute of Technology](https://secuso.aifb.kit.edu/english/104.php)
 * [Voting Technology Project](https://www.vote.caltech.edu/about)
+* [E-Voting Group](https://e-voting.bfh.ch) *Research Institute for Security in the Information Society*
 
 ## Companies researching election technology
 * [Free & Fair](https://freeandfair.us/) ([Archive of e-voting systems](https://github.com/FreeAndFair/evoting-systems))
