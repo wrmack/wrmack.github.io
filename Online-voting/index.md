@@ -52,6 +52,7 @@ show-avatar: false
 * [Feng Hao](https://www.dcs.warwick.ac.uk/~fenghao/) ([book](https://www.dcs.warwick.ac.uk/~fenghao/index.php?page=book))
 * [Joseph Kiniry](https://www.scmagazine.com/home/events/reboot-leadership-awards-2019/joseph-kiniry-galois-free-fair/)
 * [Robert Krimmer](http://www.robert.krimmer.ee) ([Google Scholar](https://scholar.google.com/citations?hl=en&user=RiUC4u0AAAAJ&view_op=list_works&sortby=pubdate))
+* [Iuliia Krivonosova](https://scholar.google.com/citations?user=bPkV3kcAAAAJ&hl=ru)
 * [Oksana Kulyk](https://okskulyk.github.io)
 * [Olivier Pereira](https://uclouvain.be/crypto/people/show/10)
 * [Ron Rivest](http://people.csail.mit.edu/rivest/pubs.html)
