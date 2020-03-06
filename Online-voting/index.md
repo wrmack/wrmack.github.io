@@ -64,6 +64,7 @@ show-avatar: false
 * [Mark Ryan](http://www.cs.bham.ac.uk/~mdr/)
 * [Peter Ryan](https://wwwfr.uni.lu/recherche/fstm/dcs/membres/peter_y_a_ryan)
 * [Steve Schneider](https://www.surrey.ac.uk/people/steve-schneider)
+* [Uwe Serdült](https://uweserdult.wordpress.com)
 * [Ben Smyth](https://scholar.google.com/citations?user=eGdZckcAAAAJ&hl=en)
 * [Philip Stark](https://www.stat.berkeley.edu/~stark/Vote/index.htm)
 * [Vanessa Teague](https://people.eng.unimelb.edu.au/vjteague/#research)
