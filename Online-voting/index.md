@@ -17,6 +17,11 @@ show-avatar: false
 * US Vote Foundation: [report on end-to-end verifiable internet voting (E2E-VIV)](https://www.usvotefoundation.org/e2e-viv/summary)
 * National Academies of Sciences, Engineering, Medicine: [Securing the Vote](https://www.nap.edu/catalog/25120/securing-the-vote-protecting-american-democracy)
 
+## Blogs about online voting
+*- a curated list*
+* Ardita Driza Maurer ([Bio](http://www.electoralpractice.ch/about/#sthash.LwCSdDDc.dpbs)): [Electoral practice - a Swiss perspective](http://www.electoralpractice.ch)
+* John Patrick ([Bio](https://www.johnpatrick.com/profile/long-bio/)): [Internet voting archive](https://www.johnpatrick.com/category/voting/internet-voting/)
+
 ## Election authorities providing online voting
 *- electoral commissions, governments, cities*
 * [NSW Electoral Commission](https://www.ivote.nsw.gov.au) *iVote*
