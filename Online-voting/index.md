@@ -112,7 +112,7 @@ Scytl-SwissPost Internet voting system](https://people.eng.unimelb.edu.au/vjteag
 ## Open source
 *- voting systems with open sourced code*
 * [Belenios](http://www.belenios.org)   <a href="https://github.com/glondu/belenios" ><image height="14px" src="GitHub-Mark-32px.png" /></a> <a href="https://gforge.inria.fr/frs/?group_id=5428" ><image height="14px" src="inria-forge.png" /> </a> 
+* [Election guard](https://blogs.microsoft.com/on-the-issues/2019/09/24/electionguard-available-today-to-enable-secure-verifiable-voting/) <a href="https://github.com/microsoft/ElectionGuard-SDK" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
 * [Estonian elections](https://www.valimised.ee/en/internet-voting/documents-about-internet-voting) <a href="https://github.com/vvk-ehk/ivxv" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
 * [Helios](https://heliosvoting.org) <a href="https://github.com/benadida/helios-server" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
-* [Election guard](https://blogs.microsoft.com/on-the-issues/2019/09/24/electionguard-available-today-to-enable-secure-verifiable-voting/) <a href="https://github.com/microsoft/ElectionGuard-SDK" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
 * [Zeus](https://zeus.grnet.gr/zeus/)  <a href="https://github.com/grnet/zeus" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
