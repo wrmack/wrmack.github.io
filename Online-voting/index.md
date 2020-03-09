@@ -109,11 +109,13 @@ show-avatar: false
 * [The use of trapdoor commitments in Bayer-Groth proofs and the implications for the verifiabilty of the
 Scytl-SwissPost Internet voting system](https://people.eng.unimelb.edu.au/vjteague/UniversalVerifiabilitySwissPost.pdf) (2019) Lewis, Pereirs, Teague
 
-## Open source
-*- voting systems with open sourced code*
+## Open source voting systems
+*- not necessarily fully online voting systems*
 * [Belenios](http://www.belenios.org)   <a href="https://github.com/glondu/belenios" ><image height="14px" src="GitHub-Mark-32px.png" /></a> <a href="https://gforge.inria.fr/frs/?group_id=5428" ><image height="14px" src="inria-forge.png" /> </a> 
 * [Election guard](https://blogs.microsoft.com/on-the-issues/2019/09/24/electionguard-available-today-to-enable-secure-verifiable-voting/) <a href="https://github.com/microsoft/ElectionGuard-SDK" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
 * [Estonian elections](https://www.valimised.ee/en/internet-voting/documents-about-internet-voting) <a href="https://github.com/vvk-ehk/ivxv" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
+* [Free & Fair](https://freeandfair.us) <a href="https://github.com/FreeAndFair" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
+* [Galois](https://galois.com) / [DARPA](https://www.darpa.mil) <a href="https://github.com/GaloisInc/BESSPIN-Voting-System-Demonstrator-2019" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
 * [Helios](https://heliosvoting.org) <a href="https://github.com/benadida/helios-server" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
 * [TrustTheVote](https://trustthevote.org) <a href="https://github.com/TrustTheVote-Project" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
 * [Zeus](https://zeus.grnet.gr/zeus/)  <a href="https://github.com/grnet/zeus" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
