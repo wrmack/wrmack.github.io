@@ -81,6 +81,10 @@ show-avatar: false
 * [Voting Technology Project](https://www.vote.caltech.edu/about)
 * [E-Voting Group](https://e-voting.bfh.ch) *Research Institute for Security in the Information Society*
 
+## MOOCs (Massive Open Online Courses)
+* [Securing Digital Democracy](https://www.coursera.org/learn/digital-democracy) *University of Michigan*
+* [Diffusion and Impact of Internet Voting](https://moodle.ut.ee/course/view.php?id=4177). *University of Tartu*
+
 ## Companies researching election technology
 * [Free & Fair](https://freeandfair.us/) ([Archive of e-voting systems](https://github.com/FreeAndFair/evoting-systems))
 * [Microsoft](https://blogs.microsoft.com/on-the-issues/2019/09/24/electionguard-available-today-to-enable-secure-verifiable-voting/) <a href="https://github.com/microsoft/ElectionGuard-SDK" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
