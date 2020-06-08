@@ -106,7 +106,7 @@ show-avatar: false
 * [Center for Democracy and Technology](https://cdt.org/campaign/election-security/)
 * [Brennan Center for Justice](https://www.brennancenter.org/our-work/policy-solutions/preparing-cyberattacks-and-technical-failures-guide-election-officials)
 
-## Vulnerability discoveries
+## Security analyses
 *- recently published papers*
 * [Security Analysis of the Democracy Live Online Voting System](https://internetpolicy.mit.edu/wp-content/uploads/2020/06/OmniBallot.pdf)  (2020) Michael A. Specter and J. Alex Halderman
 * [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf) (2020) Specter, Koppel, Weitzner [Trail of Bits - report on Voatz](https://blog.trailofbits.com/2020/03/13/our-full-report-on-the-voatz-mobile-voting-platform/)
