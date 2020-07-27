@@ -8,7 +8,7 @@ show-avatar: false
 ## Non-profit groups involved in online voting
 *- either promoting it, researching it or warning against it*
 
-* [Webroots Democracy](https://webrootsdemocracy.org/online-voting/)
+* [Webroots Democracy](https://webrootsdemocracy.org/cratos-principles/)
 * [The Electronic Elections Project](https://www.electronicelections.ca)
 
 
