@@ -105,6 +105,7 @@ show-avatar: false
 * Transatlantic Cyber Forum: [Securing Democracy in Cyberspace](https://www.stiftung-nv.de/sites/default/files/securing_democracy_in_cyberspace.pdf)
 * [Center for Democracy and Technology](https://cdt.org/campaign/election-security/)
 * [Brennan Center for Justice](https://www.brennancenter.org/our-work/policy-solutions/preparing-cyberattacks-and-technical-failures-guide-election-officials)
+* [Election Assistance Commission](https://www.eac.gov/election-officials/election-security-preparedness#_jluvxpyhia38)
 
 ## Security analyses
 *- recently published papers*
