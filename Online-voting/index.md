@@ -107,6 +107,7 @@ show-avatar: false
 * [Center for Democracy and Technology](https://cdt.org/campaign/election-security/)
 * [Brennan Center for Justice](https://www.brennancenter.org/our-work/policy-solutions/preparing-cyberattacks-and-technical-failures-guide-election-officials)
 * [Election Assistance Commission](https://www.eac.gov/election-officials/election-security-preparedness#_jluvxpyhia38)
+* [DEF CON Voting village](https://www.youtube.com/channel/UCnDevqsxt3sO8chqS5MGvwg/featured)
 
 ## Security analyses
 *- recently published papers*
