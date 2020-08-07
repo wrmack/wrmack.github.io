@@ -84,6 +84,7 @@ show-avatar: false
 ## MOOCs (Massive Open Online Courses)
 * [Securing Digital Democracy](https://www.coursera.org/learn/digital-democracy) *University of Michigan*
 * [Diffusion and Impact of Internet Voting](https://moodle.ut.ee/course/view.php?id=4177). *University of Tartu*
+* [Cybersecurity for election officials](https://learn.techandciviclife.org/library/by/category/cybersecurity/)
 
 ## Companies researching election technology
 * [Free & Fair](https://freeandfair.us/) ([Archive of e-voting systems](https://github.com/FreeAndFair/evoting-systems))
