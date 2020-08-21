@@ -26,7 +26,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/thumb.png"
+# avatar: "/assets/img/thumb.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true
@@ -83,6 +83,26 @@ excerpt_length: 50
 mobile-theme-col: "#0085A1"
 
 site-css: "/assets/css/site.css"
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#E67E33"
+navbar-text-col: "#404040"
+navbar-children-col: "#E67E33"
+page-col: "#F5F5F5"
+link-col: "#008AFF"
+hover-col: "#CCCCCC"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
+
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"
+
 
 # --- Web Statistics Section --- #
 
