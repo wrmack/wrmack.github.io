@@ -82,7 +82,7 @@ excerpt_length: 50
 
 mobile-theme-col: "#0085A1"
 
-site-css: "/assets/css/demo.css"
+site-css: "/assets/css/site.css"
 
 # --- Web Statistics Section --- #
 
