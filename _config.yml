@@ -70,7 +70,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "BeautifulJekyll.com"
+# url-pretty: "BeautifulJekyll.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -87,10 +87,10 @@ site-css: "/assets/css/demo.css"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-141579777-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-59820529-1"
+#google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -98,6 +98,7 @@ google_analytics: "UA-59820529-1"
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
+
 #matomo:
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
@@ -150,7 +151,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Pacific/Auckland"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -190,6 +191,7 @@ exclude:
   - README.md
   - Vagrantfile
   - docs/
+  - [Solid-react]
 
 plugins:
   - jekyll-paginate
