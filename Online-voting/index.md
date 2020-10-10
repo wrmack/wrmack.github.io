@@ -111,6 +111,7 @@ show-avatar: false
 
 ## Security analyses
 *- recently published papers*
+* [Online Voting in Ontario's Municipal Elections](https://whisperlab.org/ontario-online.pdf) (2020)
 * [Security Analysis of the Democracy Live Online Voting System](https://internetpolicy.mit.edu/wp-content/uploads/2020/06/OmniBallot.pdf)  (2020) Michael A. Specter and J. Alex Halderman
 * [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf) (2020) Specter, Koppel, Weitzner [Trail of Bits - report on Voatz](https://blog.trailofbits.com/2020/03/13/our-full-report-on-the-voatz-mobile-voting-platform/)
 * [Breaking the Encryption Scheme of the Moscow Internet Voting System](https://arxiv.org/pdf/1908.05127.pdf) (2019) Gaudrey, Golovnev ([Slides](https://eccworkshop.org/2019/slides/gaudry.pdf))
