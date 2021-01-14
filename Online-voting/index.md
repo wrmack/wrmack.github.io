@@ -21,6 +21,7 @@ show-avatar: false
 *- a curated list*
 * Ardita Driza Maurer ([Bio](http://www.electoralpractice.ch/about/#sthash.LwCSdDDc.dpbs)): [Electoral practice - a Swiss perspective](http://www.electoralpractice.ch)
 * John Patrick ([Bio](https://www.johnpatrick.com/profile/long-bio/)): [Internet voting archive](https://www.johnpatrick.com/category/voting/internet-voting/)
+* [Counted as Cast](https://countedascast.org/internet-voting-risks/internet-voting-reading-list/)
 
 ## Election authorities providing online voting
 *- electoral commissions, governments, cities*
