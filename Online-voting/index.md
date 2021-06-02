@@ -82,6 +82,7 @@ show-avatar: false
 * [Karlsruhe Institute of Technology](https://secuso.aifb.kit.edu/english/104.php)
 * [Voting Technology Project](https://www.vote.caltech.edu/about)
 * [E-Voting Group](https://e-voting.bfh.ch) *Research Institute for Security in the Information Society*
+* [Secure, Usable and Robust Cryptographic Voting Systems (SURCVS)](https://wiki.math.ntnu.no/surcvs/start)
 
 ## MOOCs (Massive Open Online Courses)
 * [Securing Digital Democracy](https://www.coursera.org/learn/digital-democracy) *University of Michigan*
