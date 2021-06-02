@@ -54,6 +54,7 @@ show-avatar: false
 * [Véronique Cortier](https://members.loria.fr/VCortier/)
 * [Aleksander Essex](https://whisperlab.org/category/papers/)
 * [Nicole Goodman](http://nicolejgoodman.com/publications/)
+* [Thomas Haines](https://www.ntnu.edu/employees/thomas.haines)
 * [J Alex Halderman](https://jhalderm.com)
 * [Feng Hao](https://www.dcs.warwick.ac.uk/~fenghao/) ([book](https://www.dcs.warwick.ac.uk/~fenghao/index.php?page=book))
 * [Joseph Kiniry](https://www.scmagazine.com/home/events/reboot-leadership-awards-2019/joseph-kiniry-galois-free-fair/)
