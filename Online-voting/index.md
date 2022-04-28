@@ -62,7 +62,6 @@ show-avatar: false
 * [Robert Krimmer](http://www.robert.krimmer.ee) ([Google Scholar](https://scholar.google.com/citations?hl=en&user=RiUC4u0AAAAJ&view_op=list_works&sortby=pubdate))
 * [Iuliia Krivonosova](https://scholar.google.com/citations?user=bPkV3kcAAAAJ&hl=ru)
 * [Oksana Kulyk](https://okskulyk.github.io)
-* [Stephan Neumann](https://sites.google.com/view/stephanneumann)
 * [Olivier Pereira](https://uclouvain.be/crypto/people/show/10)
 * [Ron Rivest](http://people.csail.mit.edu/rivest/pubs.html)
 * [Peter Roenne](https://wwwen.uni.lu/snt/people/peter_roenne)
