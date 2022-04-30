@@ -121,7 +121,7 @@ show-avatar: false
 * [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf) (2020) Specter, Koppel, Weitzner [Trail of Bits - report on Voatz](https://blog.trailofbits.com/2020/03/13/our-full-report-on-the-voatz-mobile-voting-platform/)
 * [Breaking the Encryption Scheme of the Moscow Internet Voting System](https://arxiv.org/pdf/1908.05127.pdf) (2019) Gaudrey, Golovnev ([Slides](https://eccworkshop.org/2019/slides/gaudry.pdf))
 * [The use of trapdoor commitments in Bayer-Groth proofs and the implications for the verifiabilty of the
-Scytl-SwissPost Internet voting system](https://people.eng.unimelb.edu.au/vjteague/UniversalVerifiabilitySwissPost.pdf) (2019) Lewis, Pereirs, Teague
+Scytl-SwissPost Internet voting system](https://people.eng.unimelb.edu.au/vjteague/UniversalVerifiabilitySwissPost.pdf) (2019) Lewis, Pereira, Teague
 
 ## Open source voting systems
 *- not necessarily fully online voting systems*
@@ -131,5 +131,6 @@ Scytl-SwissPost Internet voting system](https://people.eng.unimelb.edu.au/vjteag
 * [Free & Fair](https://freeandfair.us) <a href="https://github.com/FreeAndFair" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
 * [Galois](https://galois.com) / [DARPA](https://www.darpa.mil) <a href="https://github.com/GaloisInc/BESSPIN-Voting-System-Demonstrator-2019" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
 * [Helios](https://heliosvoting.org) <a href="https://github.com/benadida/helios-server" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
+* [Swiss Post](https://evoting-community.post.ch/en) <a href="https://gitlab.com/swisspost-evoting"><image height="14px" src="gitlab-32px.png" /> </a>
 * [TrustTheVote](https://trustthevote.org) <a href="https://github.com/TrustTheVote-Project" ><image height="14px" src="GitHub-Mark-32px.png" /> </a> 
 * [Zeus](https://zeus.grnet.gr/zeus/)  <a href="https://github.com/grnet/zeus" ><image height="14px" src="GitHub-Mark-32px.png" /> </a>
