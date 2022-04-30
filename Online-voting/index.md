@@ -55,7 +55,7 @@ show-avatar: false
 * [Aleksander Essex](https://whisperlab.org/category/papers/)
 * [Nicole Goodman](http://nicolejgoodman.com/publications/)
 * [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen)
-* [Thomas Haines](https://www.ntnu.edu/employees/thomas.haines)
+* [Thomas Haines](https://scholar.google.com/citations?hl=en&user=bbt2PloAAAAJ&view_op=list_works&sortby=pubdate)
 * [J Alex Halderman](https://jhalderm.com)
 * [Feng Hao](https://www.dcs.warwick.ac.uk/~fenghao/) ([book](https://www.dcs.warwick.ac.uk/~fenghao/index.php?page=book))
 * [Joseph Kiniry](https://www.scmagazine.com/home/events/reboot-leadership-awards-2019/joseph-kiniry-galois-free-fair/)
