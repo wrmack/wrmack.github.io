@@ -7,7 +7,9 @@ use-site-title: true
 
 
 ## Online voting
-I have an interest in on-line voting through my involvement in local government elections in New Zealand. I have started to create a collection of resources [here](Online-voting/).
+I have an interest in on-line voting through my involvement in local government elections in New Zealand. I have started to create a collection of online voting [resources](Online-voting/).  
+
+I have put together some supplementary [documentation](https://wrmack.github.io/helios-server-docs/site/) for the Helios Voting open source online voting application.  
 
 ## Solid
 The [Solid project](https://solid.inrupt.com/about) was initiated by Sir Tim Berners-lee, the inventor of the web.  A [key concept](https://solid.inrupt.com/how-it-works) is that people keep all their personal data in a pod.  In a social media context this contrasts with the current model where users' personal data is stored centrally - the users of Facebook have their personal data - their likes, shares, comments - kept on Facebook's servers.  Under the Solid model a user might 'like' someone else's post but the user's 'like' is stored on the user's own pod and the owner of the post is notified.    
