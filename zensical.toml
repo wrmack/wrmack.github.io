@@ -1,0 +1,36 @@
+[project]
+site_name = "Warwick McNaughton"
+repo_url = "https://github.com/wrmack/wrmack.github.io"
+extra_css = ["stylesheets/extra.css"]
+
+nav = [
+  {"Home" = "index.md"},
+  {"Online voting" = "online.md"},
+  {"Solid voting" = "solid-voting.md"},
+  {"Helios notes" = "helios.md"},
+  {"About me" = "about.md"}
+]
+
+[project.theme]
+variant = "modern"
+features = [
+  "navigation.tabs"
+]
+logo = "assets/avatar.png"
+custom_dir = "overrides"
+
+
+[[project.theme.palette]] 
+primary = "custom"
+
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+

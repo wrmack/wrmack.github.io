@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <!-- Add scripts that need to run before here -->
+  {{ super() }}
+  <!-- Add scripts that need to run afterwards here -->
+   <script defer src="https://umami.wrmack.com/script.js" data-website-id="aa7703ef-31d0-4ebc-976d-be27b29af182"></script>
+{% endblock %}
