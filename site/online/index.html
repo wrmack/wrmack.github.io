@@ -19,7 +19,7 @@
       
       
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="zensical-0.0.23">
+      <meta name="generator" content="zensical-0.0.64">
     
     
       
@@ -30,12 +30,12 @@
       
         
       
-      <link rel="stylesheet" href="../assets/stylesheets/modern/main.1e989742.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/modern/main.40d3fdbb.min.css">
       
         
           
         
-        <link rel="stylesheet" href="../assets/stylesheets/modern/palette.dfe2e883.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/modern/palette.812a03bb.min.css">
       
       
 
@@ -49,22 +49,20 @@
         
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,500,500i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,500,500i,700,700i%7CJetBrains+Mono:400,400i,700,700i&amp;display=fallback">
         <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
       
     
     
       <link rel="stylesheet" href="../stylesheets/extra.css">
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,a=__md_scope)=>JSON.parse(t.getItem(a.pathname+"."+e)),__md_set=(e,t,a=localStorage,_=__md_scope)=>{try{a.setItem(_.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
+    <script>__md_scope=new URL("..",location),__md_scope.pathname.endsWith("/")||(__md_scope=new URL(__md_scope.pathname+"/",location)),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,_=__md_scope)=>JSON.parse(t.getItem(_.pathname+"."+e)),__md_set=(e,t,_=localStorage,a=__md_scope)=>{try{_.setItem(a.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
     
       
 
     
     
-  <!-- Add scripts that need to run before here -->
-  
-  <!-- Add scripts that need to run afterwards here -->
+<!-- Got block name from looking at venv/lib/python3.13/site-packages/zensical/templates/base.html -->
    <script defer src="https://umami.wrmack.com/script.js" data-website-id="aa7703ef-31d0-4ebc-976d-be27b29af182"></script>
 
   </head>
@@ -82,7 +80,7 @@
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
-    <label class="md-overlay" for="__drawer"></label>
+    <label class="md-overlay" for="__drawer" aria-label="Navigation"></label>
     <div data-md-component="skip">
       
         
@@ -102,10 +100,10 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="./.." title="Warwick McNaughton" class="md-header__button md-logo" aria-label="Warwick McNaughton" data-md-component="logo">
       
-  <img src="../assets/avatar.png" alt="logo">
+  <img src="../assets/avatar.png" alt="Warwick McNaughton">
 
     </a>
-    <label class="md-header__button md-icon" for="__drawer">
+    <label class="md-header__button md-icon" for="__drawer" aria-label="Navigation">
       
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-menu" viewBox="0 0 24 24"><path d="M4 5h16M4 12h16M4 19h16"/></svg>
     </label>
@@ -159,7 +157,7 @@
     
       
       
-        <label class="md-header__button md-icon" for="__search">
+        <label class="md-header__button md-icon" for="__search" aria-label="Search">
           
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-search" viewBox="0 0 24 24"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg>
         </label>
@@ -175,7 +173,7 @@
         <a href="https://github.com/wrmack/wrmack.github.io" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
   </div>
   <div class="md-source__repository">
     GitHub
@@ -305,7 +303,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="./.." title="Warwick McNaughton" class="md-nav__button md-logo" aria-label="Warwick McNaughton" data-md-component="logo">
       
-  <img src="../assets/avatar.png" alt="logo">
+  <img src="../assets/avatar.png" alt="Warwick McNaughton">
 
     </a>
     Warwick McNaughton
@@ -315,7 +313,7 @@
       <a href="https://github.com/wrmack/wrmack.github.io" title="Go to repository" class="md-source" data-md-component="source">
   <div class="md-source__icon md-icon">
     
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
   </div>
   <div class="md-source__repository">
     GitHub
@@ -339,8 +337,7 @@
   <span class="md-ellipsis">
     
   
-    Home
-  
+  Home
 
     
   </span>
@@ -362,7 +359,7 @@
   
     <li class="md-nav__item md-nav__item--active">
       
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
       
       
         
@@ -375,8 +372,7 @@
   <span class="md-ellipsis">
     
   
-    Online voting
-  
+  Online voting
 
     
   </span>
@@ -393,8 +389,7 @@
   <span class="md-ellipsis">
     
   
-    Online voting
-  
+  Online voting
 
     
   </span>
@@ -422,9 +417,9 @@
         <li class="md-nav__item">
   <a href="#non-profit-groups-involved-in-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Non-profit groups involved in online voting
-      
+      </span>
     </span>
   </a>
   
@@ -433,9 +428,9 @@
         <li class="md-nav__item">
   <a href="#blogs-about-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Blogs about online voting
-      
+      </span>
     </span>
   </a>
   
@@ -444,9 +439,9 @@
         <li class="md-nav__item">
   <a href="#election-authorities-providing-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Election authorities providing online voting
-      
+      </span>
     </span>
   </a>
   
@@ -455,9 +450,9 @@
         <li class="md-nav__item">
   <a href="#governments-and-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Governments and online voting
-      
+      </span>
     </span>
   </a>
   
@@ -466,9 +461,9 @@
         <li class="md-nav__item">
   <a href="#experts-academics-researching-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Experts / academics researching (online) voting
-      
+      </span>
     </span>
   </a>
   
@@ -477,9 +472,9 @@
         <li class="md-nav__item">
   <a href="#academic-institutions-and-conferences" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Academic institutions and conferences
-      
+      </span>
     </span>
   </a>
   
@@ -488,9 +483,9 @@
         <li class="md-nav__item">
   <a href="#moocs-massive-open-online-courses" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         MOOCs (Massive Open Online Courses)
-      
+      </span>
     </span>
   </a>
   
@@ -499,9 +494,9 @@
         <li class="md-nav__item">
   <a href="#companies-researching-election-technology" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Companies researching election technology
-      
+      </span>
     </span>
   </a>
   
@@ -510,9 +505,9 @@
         <li class="md-nav__item">
   <a href="#cloud-services-for-elections" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Cloud services for elections
-      
+      </span>
     </span>
   </a>
   
@@ -521,9 +516,9 @@
         <li class="md-nav__item">
   <a href="#security-advice" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Security advice
-      
+      </span>
     </span>
   </a>
   
@@ -532,9 +527,9 @@
         <li class="md-nav__item">
   <a href="#security-analyses" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Security analyses
-      
+      </span>
     </span>
   </a>
   
@@ -543,9 +538,9 @@
         <li class="md-nav__item">
   <a href="#open-source-voting-systems" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Open source voting systems
-      
+      </span>
     </span>
   </a>
   
@@ -573,8 +568,7 @@
   <span class="md-ellipsis">
     
   
-    Solid voting
-  
+  Solid voting
 
     
   </span>
@@ -600,8 +594,7 @@
   <span class="md-ellipsis">
     
   
-    Helios notes
-  
+  Helios notes
 
     
   </span>
@@ -627,8 +620,7 @@
   <span class="md-ellipsis">
     
   
-    About me
-  
+  About me
 
     
   </span>
@@ -652,6 +644,19 @@
               
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
                 <div class="md-sidebar__scrollwrap">
+                  
+                    
+                    
+                    
+                      
+                    
+                    
+                      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+                      <div class="md-sidebar-button__wrapper">
+                        <label class="md-sidebar-button" for="__toc"></label>
+                      </div>
+                    
+                  
                   <div class="md-sidebar__inner">
                     
 
@@ -672,9 +677,9 @@
         <li class="md-nav__item">
   <a href="#non-profit-groups-involved-in-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Non-profit groups involved in online voting
-      
+      </span>
     </span>
   </a>
   
@@ -683,9 +688,9 @@
         <li class="md-nav__item">
   <a href="#blogs-about-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Blogs about online voting
-      
+      </span>
     </span>
   </a>
   
@@ -694,9 +699,9 @@
         <li class="md-nav__item">
   <a href="#election-authorities-providing-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Election authorities providing online voting
-      
+      </span>
     </span>
   </a>
   
@@ -705,9 +710,9 @@
         <li class="md-nav__item">
   <a href="#governments-and-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Governments and online voting
-      
+      </span>
     </span>
   </a>
   
@@ -716,9 +721,9 @@
         <li class="md-nav__item">
   <a href="#experts-academics-researching-online-voting" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Experts / academics researching (online) voting
-      
+      </span>
     </span>
   </a>
   
@@ -727,9 +732,9 @@
         <li class="md-nav__item">
   <a href="#academic-institutions-and-conferences" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Academic institutions and conferences
-      
+      </span>
     </span>
   </a>
   
@@ -738,9 +743,9 @@
         <li class="md-nav__item">
   <a href="#moocs-massive-open-online-courses" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         MOOCs (Massive Open Online Courses)
-      
+      </span>
     </span>
   </a>
   
@@ -749,9 +754,9 @@
         <li class="md-nav__item">
   <a href="#companies-researching-election-technology" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Companies researching election technology
-      
+      </span>
     </span>
   </a>
   
@@ -760,9 +765,9 @@
         <li class="md-nav__item">
   <a href="#cloud-services-for-elections" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Cloud services for elections
-      
+      </span>
     </span>
   </a>
   
@@ -771,9 +776,9 @@
         <li class="md-nav__item">
   <a href="#security-advice" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Security advice
-      
+      </span>
     </span>
   </a>
   
@@ -782,9 +787,9 @@
         <li class="md-nav__item">
   <a href="#security-analyses" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Security analyses
-      
+      </span>
     </span>
   </a>
   
@@ -793,9 +798,9 @@
         <li class="md-nav__item">
   <a href="#open-source-voting-systems" class="md-nav__link">
     <span class="md-ellipsis">
-      
+      <span class="md-typeset">
         Open source voting systems
-      
+      </span>
     </span>
   </a>
   
@@ -825,30 +830,31 @@
 <p><em>- either promoting it, researching it or warning against it</em></p>
 <ul>
 <li><a href="https://webrootsdemocracy.org/cratos-principles/">Webroots Democracy</a></li>
-<li><a href="https://www.electronicelections.ca">The Electronic Elections Project</a></li>
 </ul>
 <p><em>- other groups with comments / reports about online voting</em></p>
 <ul>
 <li><a href="https://www.verifiedvoting.org/resources/internet-voting/">Verified Voting</a></li>
 <li>US Vote Foundation: <a href="https://www.usvotefoundation.org/e2e-viv/summary">report on end-to-end verifiable internet voting (E2E-VIV)</a></li>
 <li>National Academies of Sciences, Engineering, Medicine: <a href="https://www.nap.edu/catalog/25120/securing-the-vote-protecting-american-democracy">Securing the Vote</a></li>
+<li>Institution of Engineering and Technology: <a href="https://www.theiet.org/impact-society/policy-and-public-affairs/digital-futures-policy/reports-and-papers/internet-voting-in-the-uk">Internet Voting in the UK</a></li>
 </ul>
 <h2 id="blogs-about-online-voting">Blogs about online voting<a class="headerlink" href="#blogs-about-online-voting" title="Permanent link">&para;</a></h2>
 <p><em>- a curated list</em></p>
 <ul>
 <li>Ardita Driza Maurer (<a href="http://www.electoralpractice.ch/about/#sthash.LwCSdDDc.dpbs">Bio</a>): <a href="http://www.electoralpractice.ch">Electoral practice - a Swiss perspective</a></li>
 <li>John Patrick (<a href="https://www.johnpatrick.com/profile/long-bio/">Bio</a>): <a href="https://www.johnpatrick.com/category/voting/internet-voting/">Internet voting archive</a></li>
-<li><a href="https://countedascast.org/internet-voting-risks/internet-voting-reading-list/">Counted as Cast</a></li>
 </ul>
 <h2 id="election-authorities-providing-online-voting">Election authorities providing online voting<a class="headerlink" href="#election-authorities-providing-online-voting" title="Permanent link">&para;</a></h2>
 <p><em>- electoral commissions, governments, cities</em></p>
 <ul>
-<li><a href="https://www.ivote.nsw.gov.au">NSW Electoral Commission</a> <em>iVote</em></li>
-<li><a href="https://www.valimised.ee/en/internet-voting/internet-voting-estonia">Estonia</a></li>
+<li><a href="https://www.valimised.ee/en/internet-voting-estonia">Estonia</a></li>
 <li><a href="https://www.ch.ch/en/demokratie/voting-online/">Switzerland</a></li>
-<li><a href="https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx">Markham City, Ontario, Canada</a> <em>Over 150 municipalities in Canada provide <a href="https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting">online voting</a></em></li>
-<li><a href="https://www.idea.int/advanced-search?th=ICTs%20in%20Elections%20Database&amp;region=&amp;question=">IDEA database of countries using e-voting</a></li>
-<li><a href="https://www.diplomatie.gouv.fr/fr/services-aux-francais/elections/modalites-de-vote/article/vote-par-internet">France</a></li>
+<li>Some provinces in Canada provide internet voting. For the 2022 elections, <a href="https://www.amo.on.ca/municipal-election-statistics">217 municipalities in Ontario</a> provided internet and phone voting.</li>
+<li><a href="https://www.idea.int/data-tools/data/icts-elections-database">IDEA database of e-voting</a><ul>
+<li>IDEA Publication: <a href="https://www.idea.int/publications/catalogue/online-voting-current-and-future-practices">Online Voting: Current and Future Practices</a></li>
+</ul>
+</li>
+<li><a href="https://www.diplomatie.gouv.fr/en/services/faq/vote-par-internet">France</a></li>
 </ul>
 <h2 id="governments-and-online-voting">Governments and online voting<a class="headerlink" href="#governments-and-online-voting" title="Permanent link">&para;</a></h2>
 <p><em>- governmental / parliamentary inquiries, positions, standards</em></p>
@@ -856,11 +862,12 @@
 <li><a href="https://www.canada.ca/en/democratic-institutions/services/reports/online-voting-path-forward-federal-elections.html">Canadian Government</a> "Online Voting: A Path Forward for Federal Elections" (2017) </li>
 <li><a href="http://publications.gc.ca/collections/collection_2019/cstc-csec/D96-2-2019-eng.pdf">Canadian Government</a> "2019 Update: Cyber Threats to Canada’s Democratic Process" (2019)</li>
 <li><a href="https://search.coe.int/cm/Pages/result_details.aspx?ObjectID=0900001680726f6f">Council of Europe</a>, Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)</li>
-<li><a href="https://www.dia.govt.nz/online-voting-trials-consultation">New Zealand Government</a> consultation on draft framework for online voting trials for local authorities.  <a href="https://www.dia.govt.nz/online-voting">Earlier papers</a>.</li>
+<li><a href="https://www.dia.govt.nz/Resource-material-Our-Policy-Advice-Areas-Local-Government-Policy#voting">New Zealand Government</a>.</li>
 <li><a href="https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/">Scottish Government Consultation on Electoral Reform</a></li>
 <li><a href="https://www.admin.ch/opc/en/classified-compilation/20132343/index.html">Swiss Government</a>, <a href="https://www.bk.admin.ch/bk/en/home/politische-rechte/e-voting.html">E-voting page</a>, <a href="https://www.bk.admin.ch/dam/bk/en/dokumente/pore/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf.download.pdf/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf">Technical</a>, <a href="https://www.post.ch/en/business-solutions/e-voting">Swiss Post</a></li>
 <li>Pakistan - <a href="https://ecp.gov.pk/documents/ivotingreport.pdf">Report of Electoral Commission</a>, <a href="https://arxiv.org/pdf/1907.07765.pdf">Academic comment</a></li>
 <li>USA - <a href="https://csrc.nist.gov/Topics/Applications/voting">NIST</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Electronic_voting_by_country">Wikipedia article</a> on electronic voting by country</li>
 </ul>
 <h2 id="experts-academics-researching-online-voting">Experts / academics researching (online) voting<a class="headerlink" href="#experts-academics-researching-online-voting" title="Permanent link">&para;</a></h2>
 <ul>
@@ -873,7 +880,7 @@
 <li><a href="https://members.loria.fr/VCortier/">Véronique Cortier</a></li>
 <li><a href="https://www.bradenlc.com/activities/election-research">Braden Crimmins</a></li>
 <li><a href="https://whisperlab.org/category/papers/">Aleksander Essex</a></li>
-<li><a href="http://nicolejgoodman.com/publications/">Nicole Goodman</a></li>
+<li><a href="https://nicolejgoodman.com">Nicole Goodman</a></li>
 <li><a href="https://www.ntnu.edu/employees/kristian.gjosteen">Kristian Gjøsteen</a></li>
 <li><a href="https://scholar.google.com/citations?hl=en&amp;user=bbt2PloAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Thomas Haines</a></li>
 <li><a href="https://jhalderm.com">J Alex Halderman</a></li>
@@ -955,7 +962,7 @@ Scytl-SwissPost Internet voting system</a> (2019) Lewis, Pereira, Teague</li>
 <h2 id="open-source-voting-systems">Open source voting systems<a class="headerlink" href="#open-source-voting-systems" title="Permanent link">&para;</a></h2>
 <p><em>- not necessarily fully online voting systems</em></p>
 <ul>
-<li><a href="http://www.belenios.org">Belenios</a> <a href="https://github.com/glondu/belenios" ><svg class="icon-github"></svg></a><a href="https://gforge.inria.fr/frs/?group_id=5428" ><img style="height:16px;" src="../assets/inria-forge.png" /> </a> </li>
+<li><a href="http://www.belenios.org">Belenios</a> <a href="https://github.com/glondu/belenios" ><svg class="icon-github"></svg></a><a href="https://gforge.inria.fr/frs/?group_id=5428" ><img style="height:16px;" src="../../assets/inria-forge.png" /> </a> </li>
 <li><a href="https://blogs.microsoft.com/on-the-issues/2019/09/24/electionguard-available-today-to-enable-secure-verifiable-voting/">Election guard</a> <a href="https://github.com/microsoft/ElectionGuard-SDK" ><svg class="icon-github"></svg> </a></li>
 <li><a href="https://www.valimised.ee/en/internet-voting/documents-about-internet-voting">Estonian elections</a> <a href="https://github.com/vvk-ehk/ivxv" ><svg class="icon-github"></svg> </a> </li>
 <li><a href="https://freeandfair.us">Free &amp; Fair</a> <a href="https://github.com/FreeAndFair" ><svg class="icon-github"></svg> </a> </li>
@@ -1024,10 +1031,13 @@ Scytl-SwissPost Internet voting system</a> (2019) Lewis, Pereira, Teague</li>
       
       
       
-      <script id="__config" type="application/json">{"annotate":null,"base":"..","features":["navigation.tabs"],"search":"../assets/javascripts/workers/search.e2d2d235.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
+      
+        
+        
+      <script id="__config" type="application/json">{"annotate":null,"base":"..","features":["navigation.tabs"],"redirect":null,"search":"../assets/javascripts/workers/search.7d14d953.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
     
     
-      <script src="../assets/javascripts/bundle.5fcf0de6.min.js"></script>
+      <script src="../assets/javascripts/bundle.c04ba553.min.js"></script>
       
     
   </body>

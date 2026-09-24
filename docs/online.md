@@ -11,7 +11,6 @@ hide:
 *- either promoting it, researching it or warning against it*
 
 - [Webroots Democracy](https://webrootsdemocracy.org/cratos-principles/)
-- [The Electronic Elections Project](https://www.electronicelections.ca)
 
 
 *- other groups with comments / reports about online voting*
@@ -19,23 +18,24 @@ hide:
 * [Verified Voting](https://www.verifiedvoting.org/resources/internet-voting/)
 * US Vote Foundation: [report on end-to-end verifiable internet voting (E2E-VIV)](https://www.usvotefoundation.org/e2e-viv/summary)
 * National Academies of Sciences, Engineering, Medicine: [Securing the Vote](https://www.nap.edu/catalog/25120/securing-the-vote-protecting-american-democracy)
+* Institution of Engineering and Technology: [Internet Voting in the UK](https://www.theiet.org/impact-society/policy-and-public-affairs/digital-futures-policy/reports-and-papers/internet-voting-in-the-uk)
 
 ## Blogs about online voting
 *- a curated list*
 
 * Ardita Driza Maurer ([Bio](http://www.electoralpractice.ch/about/#sthash.LwCSdDDc.dpbs)): [Electoral practice - a Swiss perspective](http://www.electoralpractice.ch)
 * John Patrick ([Bio](https://www.johnpatrick.com/profile/long-bio/)): [Internet voting archive](https://www.johnpatrick.com/category/voting/internet-voting/)
-* [Counted as Cast](https://countedascast.org/internet-voting-risks/internet-voting-reading-list/)
+
 
 ## Election authorities providing online voting
 *- electoral commissions, governments, cities*
 
-* [NSW Electoral Commission](https://www.ivote.nsw.gov.au) *iVote*
-* [Estonia](https://www.valimised.ee/en/internet-voting/internet-voting-estonia)
+* [Estonia](https://www.valimised.ee/en/internet-voting-estonia)
 * [Switzerland](https://www.ch.ch/en/demokratie/voting-online/)
-* [Markham City, Ontario, Canada](https://www.markhamvotes.ca/en/voters/how-to-vote-online-.aspx) *Over 150 municipalities in Canada provide [online voting](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections#Online_voting)*
-* [IDEA database of countries using e-voting](https://www.idea.int/advanced-search?th=ICTs%20in%20Elections%20Database&region=&question=)
-* [France](https://www.diplomatie.gouv.fr/fr/services-aux-francais/elections/modalites-de-vote/article/vote-par-internet)
+* Some provinces in Canada provide internet voting. For the 2022 elections, [217 municipalities in Ontario](https://www.amo.on.ca/municipal-election-statistics) provided internet and phone voting.
+* [IDEA database of e-voting](https://www.idea.int/data-tools/data/icts-elections-database)
+    * IDEA Publication: [Online Voting: Current and Future Practices](https://www.idea.int/publications/catalogue/online-voting-current-and-future-practices)
+* [France](https://www.diplomatie.gouv.fr/en/services/faq/vote-par-internet)
 
 
 ## Governments and online voting
@@ -44,11 +44,12 @@ hide:
 * [Canadian Government](https://www.canada.ca/en/democratic-institutions/services/reports/online-voting-path-forward-federal-elections.html) "Online Voting: A Path Forward for Federal Elections" (2017) 
 * [Canadian Government](http://publications.gc.ca/collections/collection_2019/cstc-csec/D96-2-2019-eng.pdf) "2019 Update: Cyber Threats to Canada’s Democratic Process" (2019)
 * [Council of Europe](https://search.coe.int/cm/Pages/result_details.aspx?ObjectID=0900001680726f6f), Ad hoc Committee of Experts on Legal, Operational and Technical Standards for e‑voting (CAHVE) (2017)
-* [New Zealand Government](https://www.dia.govt.nz/online-voting-trials-consultation) consultation on draft framework for online voting trials for local authorities.  [Earlier papers](https://www.dia.govt.nz/online-voting).
+* [New Zealand Government](https://www.dia.govt.nz/Resource-material-Our-Policy-Advice-Areas-Local-Government-Policy#voting).
 * [Scottish Government Consultation on Electoral Reform](https://www.gov.scot/publications/electoral-reform-consultation-analysis/pages/8/)
 * [Swiss Government](https://www.admin.ch/opc/en/classified-compilation/20132343/index.html), [E-voting page](https://www.bk.admin.ch/bk/en/home/politische-rechte/e-voting.html), [Technical](https://www.bk.admin.ch/dam/bk/en/dokumente/pore/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf.download.pdf/Annex_of_the_Federal_Chancellery_Ordinance_on_Electronic_Voting_V2.0_July_2018.pdf), [Swiss Post](https://www.post.ch/en/business-solutions/e-voting)
 * Pakistan - [Report of Electoral Commission](https://ecp.gov.pk/documents/ivotingreport.pdf), [Academic comment](https://arxiv.org/pdf/1907.07765.pdf)
 * USA - [NIST](https://csrc.nist.gov/Topics/Applications/voting)
+* [Wikipedia article](https://en.wikipedia.org/wiki/Electronic_voting_by_country) on electronic voting by country
 
 ## Experts / academics researching (online) voting
 * [Ben Adida](https://ben.adida.net)
@@ -60,7 +61,7 @@ hide:
 * [Véronique Cortier](https://members.loria.fr/VCortier/)
 * [Braden Crimmins](https://www.bradenlc.com/activities/election-research)
 * [Aleksander Essex](https://whisperlab.org/category/papers/)
-* [Nicole Goodman](http://nicolejgoodman.com/publications/)
+* [Nicole Goodman](https://nicolejgoodman.com)
 * [Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen)
 * [Thomas Haines](https://scholar.google.com/citations?hl=en&user=bbt2PloAAAAJ&view_op=list_works&sortby=pubdate)
 * [J Alex Halderman](https://jhalderm.com)
